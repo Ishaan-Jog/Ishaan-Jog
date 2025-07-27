@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Ishaan Jog!
+
+🎓 I’m a diploma student at [PCET's Pimpri Chinchwad Polytechnic, Pune](https://www.pcpolytechnic.com/)  
+💻 Stream: Computer Engineering  
+🤖 I’m passionate about AI, Python, and web technologies.  
+🚀 Currently exploring new horizons and eager to learn more about computers and tech.
+
+---
+
+### 🛠️ Tech Interests
+- Artificial Intelligence
+- Python Programming
+- Web Development (Frontend & Backend)
+- All things Computer Engineering!
+
+---
+
+### 🌱 What I’m up to
+- Building my foundations in computer engineering
+- Experimenting with new tech and frameworks
+- Always curious and ready to learn
+
+---
 
 <!--
-**Ishaan-Jog/Ishaan-Jog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Ishaan-Jog/Ishaan-Jog** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
