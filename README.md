@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ishaan Jog!
 
-🎓 I’m a diploma student at [PCET's Pimpri Chinchwad Polytechnic, Pune](https://www.pcpolytechnic.com/)  
+🎓 I’m a diploma student at PCET's Pimpri Chinchwad Polytechnic, Pune
 💻 Stream: Computer Engineering  
 🤖 I’m passionate about AI, Python, and web technologies.  
 🚀 Currently exploring new horizons and eager to learn more about computers and tech.
