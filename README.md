@@ -3,7 +3,7 @@
 🎓 I’m a diploma student at PCET's Pimpri Chinchwad Polytechnic, Pune
 💻 Stream: Computer Engineering  
 🤖 I’m passionate about AI, Python, and web technologies.  
-🚀 Currently exploring new horizons and eager to learn more about computers and tech.
+🚀 Currently exploring new horizons and eager to learn more about computers and tech.  
 🌐 Visit my portfolio website: https://ishaan-jog.netlify.app/
 
 ---
